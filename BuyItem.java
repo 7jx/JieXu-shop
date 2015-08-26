@@ -1,3 +1,8 @@
+import JieXu shop.product.ProductInfo;
+
+/**
+ * 购物项
+ */
 public class BuyItem {
 	private ProductInfo product;
 	private Integer amount = 1;
