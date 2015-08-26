@@ -1,4 +1,4 @@
-import JieXu shop.product.ProductInfo;
+import JieXu.shop.product.ProductInfo;
 
 /**
  * 购物项
