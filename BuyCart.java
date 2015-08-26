@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.itcast.bean.book.OrderContactInfo;
-import cn.itcast.bean.book.OrderDeliverInfo;
-import cn.itcast.bean.book.PaymentWay;
+import JieXu.shop.book.OrderContactInfo;
+import JieXu.shop.bean.book.OrderDeliverInfo;
+import JieXu.shop.bean.book.PaymentWay;
 
 /**
  * 购物车
